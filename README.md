@@ -1,6 +1,15 @@
 # Synapse-S
+
+ _____ _     _         ___ _                _     _          ___ _                           _   _                      _ 
+/__   \ |__ (_)___    / __\ |__   ___  __ _| |_  (_)___     /   (_)___  ___ ___  _ __  _ __ | |_(_)_ __  _   _  ___  __| |
+  / /\/ '_ \| / __|  / /  | '_ \ / _ \/ _` | __| | / __|   / /\ / / __|/ __/ _ \| '_ \| '_ \| __| | '_ \| | | |/ _ \/ _` |
+ / /  | | | | \__ \ / /___| | | |  __/ (_| | |_  | \__ \  / /_//| \__ \ (_| (_) | | | | | | | |_| | | | | |_| |  __/ (_| |
+ \/   |_| |_|_|___/ \____/|_| |_|\___|\__,_|\__| |_|___/ /___,' |_|___/\___\___/|_| |_|_| |_|\__|_|_| |_|\__,_|\___|\__,_|
+
 Free Roblox Executer 
 
 If you don't turn off your Antivirus Synapse won't work
 
-Source will be released soon
+S̴o̴u̴r̴c̴e̴ ̴w̴i̴l̴l̴ ̴b̴e̴ ̴r̴e̴l̴e̴a̴s̴e̴d̴ ̴s̴o̴o̴n̴
+
+I lost the source and the Exploit.dll is outdated so there will be no more updates
